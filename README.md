@@ -12,4 +12,5 @@
 
 ### Формат данных
 
-Для метода "POST /api/createPoll/"
+Для метода
+«`POST /api/createPoll/ »
