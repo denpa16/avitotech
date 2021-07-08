@@ -37,7 +37,7 @@
 "poll_answers":
 {
 "poll_id": 1,
-"choice_id": ["1"]
+"choice_id": ["1", "2", "5"]
 }
 }
 
